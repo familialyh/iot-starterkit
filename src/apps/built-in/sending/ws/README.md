@@ -2,7 +2,7 @@
 
 ## Send messages with MMS built-in sample client using WebSocket API
 
-* Click on "HTTP API" tile
+* Click on "WebSocket API" tile
 
 ![MMS Send Built-in WS](../../../../../images/mms_send_builtin_ws_01.png)
 
